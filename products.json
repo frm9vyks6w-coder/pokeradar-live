@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "id": "upc-day-pokedutch",
+      "name": "30th Celebration Ultra-Premium Collection Day",
+      "kind": "Ultra-Premium Collection",
+      "store": "PokeDutch",
+      "url": "https://pokedutch.com/product/30th-celebration-ultra-premium-collection-day/",
+      "max_price": 250
+    }
+  ]
+}
