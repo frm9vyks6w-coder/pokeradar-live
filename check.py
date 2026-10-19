@@ -6,7 +6,7 @@ from datetime import datetime, timezone
 from html.parser import HTMLParser
 from urllib.parse import urlparse
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(__file__).resolve().parents
 CONFIG = ROOT/'products.json'
 OUT = ROOT/'site'/'radar.json'
 STATE = ROOT/'data'/'state.json'
